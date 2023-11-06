@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="{{ url_for('static', filename='style.css') }}" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+    <section class="wrapper">
+        <div id="stars"></div>
+        <div id="stars2"></div>
+        <div id="stars3"></div>
+        <div id="title">
+            <span>VOICE EMOTION</span>
+            <br>
+            <span>RECOGNITION</span>
+        </div>
+    </section>
+
+
+    <div id="container">
+        <form action="/" method="POST">
+            <button class="button" id="listenButton">START</button>
+        </form>
+        <div id="output"></div>
+      </div>
+
+      <div id="outcontainer">
+        <form action="">
+            <button class="button">OUTPUT HERE</button>
+        </form>
+      </div>
+
+    <div class="container">fhdfhh</div>
+
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+
+    <main>
+        <div id="container3d">
+        </div>
+    </main>
+
+
+    <script type="module" src="{{ url_for('static', filename='main.js') }}"></script>
+</body>
+</html>

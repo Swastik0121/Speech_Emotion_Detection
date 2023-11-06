@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lumu AI - Halo Infinite
+* source:	https://sketchfab.com/3d-models/lumu-ai-halo-infinite-7a697a45f22948cc928deab5063be8cc
+* author:	Glitch5970 (https://sketchfab.com/Glitch5970)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lumu AI - Halo Infinite" (https://sketchfab.com/3d-models/lumu-ai-halo-infinite-7a697a45f22948cc928deab5063be8cc) by Glitch5970 (https://sketchfab.com/Glitch5970) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
